@@ -1,0 +1,22 @@
+body {
+    font: 14px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #404040;
+}
+
+a {
+    color: #00a1d2;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    text-align: center;
+}
+.form {
+    width: 400px;
+    margin: 0 auto;
+}
+.form_bar {
+    padding-top: 10px;
+}
